@@ -1,14 +1,14 @@
-title:             Clean Blog
-email:             your-email@example.com
-description:       A Blog Theme by Start Bootstrap
-author:            Start Bootstrap
-baseurl:           "/startbootstrap-clean-blog-jekyll"
-url:               "http://blackrockdigital.github.io"
+title:             Antara Touring & Cinta
+email:             girangandara123@gmail.com
+description:       Hunting is Happy and Happy is Love
+author:            Touring & Cinta Management
+baseurl:           "/GiranGandara9.github.io"
+url:               "http://GiranGandara9.github.io"
 
 # Social Profiles
-twitter_username:  SBootstrap
-github_username:   BlackrockDigital
-facebook_username: StartBootstrap
+twitter_username:  Giran_Gandara
+github_username:   GiranGandara9
+facebook_username: Giran Gandara
 
 # Build settings
 markdown:          kramdown
