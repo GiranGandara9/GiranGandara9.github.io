@@ -1,14 +1,14 @@
-title:             Antara Touring & Cinta
-email:             girangandara123@gmail.com
-description:       Hunting is Happy and Happy is Love
-author:            Touring & Cinta Management
-baseurl:           "/GiranGandara9.github.io"
-url:               "http://GiranGandara9.github.io"
+title:  "Antara Touring & Cinta"
+email:  girangandara123@gmail.com
+description:  Hunting is Happy and Happy is Love
+author: Touring & Cinta Management
+baseurl:  "/GiranGandara9.github.io"
+url:  "http://GiranGandara9.github.io"
 
 # Social Profiles
-twitter_username:  Giran_Gandara
-github_username:   GiranGandara9
-facebook_username: Giran Gandara
+twitter_username: Giran_Gandara
+github_username:  GiranGandara9
+facebook_username:  Giran Gandara
 
 # Build settings
 markdown:          kramdown
